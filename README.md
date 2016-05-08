@@ -16,8 +16,8 @@ Search Params:
 
 Raise HTTP Error:
 
-* 400: QuotedExceeded: dayly quote is exceeded
-* 403: TokenNotValid: the token is not valid
+    * 400: QuotedExceeded: dayly quote is exceeded
+    * 403: TokenNotValid: the token is not valid
 
 ## Instalation
 
@@ -28,11 +28,13 @@ To install the python-mrlooquer library, simply:
 Make git clone, and run
 
     Don't forget get API-Key by singing up into mrlooquer.com
+    Configure API Toke-Key & query into test.py file and run it
 
 ## Credits
 
 by @rhodius @svtcloud<br>
-MSOC: Monitoring & CiberSecurity Operations Center<br>
-SVTCloud Security <br>
+    MSOC: Monitoring & CiberSecurity Operations Center<br>
+    SVTCloud Security <br>
+
 www.seguridadparatodos.es
 ## 
