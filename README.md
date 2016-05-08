@@ -12,11 +12,11 @@ Implement the RESTFull API for Mr Looquers. Method implement is serach any thing
 
 To install the python-mrlooquer library, simply:
 
-  pip install requests
+     pip install requests
 
 Make git clone, and run
 
-Don't forget get API-Key by singing up into mrlooquer.com
+    Don't forget get API-Key by singing up into mrlooquer.com
 
 ## Credits
 
