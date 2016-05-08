@@ -1,5 +1,6 @@
-# looquer: python library for accessing Mrlooquer IPv6 search engine
-MrLooquers is an IPv6 Intelligence search engine.
+# python-looquer: python library for Mrlooquer
+
+MrLooquers is an IPv6 Intelligence search engine. And this is a python library for accessing IPV6 Search Engine.
 
 ## 
 
