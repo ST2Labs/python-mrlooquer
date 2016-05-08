@@ -6,13 +6,13 @@ MrLooquers is an IPv6 Intelligence search engine. And this is a python library f
 
 Implement the RESTFull API for Mr Looquers. Method implement:
 
-* Query search in whole IPv6 database.
+    * Query search in whole IPv6 database.
 
 Search Params:
 
-* query
-* page
-* token 
+    * query
+    * page
+    * token 
 
 Raise HTTP Error:
 
@@ -23,7 +23,7 @@ Raise HTTP Error:
 
 To install the python-mrlooquer library, simply:
 
-     pip install requests
+    pip install requests
 
 Make git clone, and run
 
@@ -31,8 +31,8 @@ Make git clone, and run
 
 ## Credits
 
-Python API for Mrlooquer.com made by @rhodius @svtcloud<br>
+by @rhodius @svtcloud<br>
 MSOC: Monitoring & CiberSecurity Operations Center<br>
 SVTCloud Security <br>
-
+www.seguridadparatodos.es
 ## 
