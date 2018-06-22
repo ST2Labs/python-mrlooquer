@@ -1,8 +1,5 @@
 """
-Copyright 2015 Julian J. Gonzalez | SVTCloudSecurity
-www.st2labs.com | @ST2Labs | @rhodius | @seguridadxato2
-
-__Author__: Julian J. GOnzalez
+__Author__: Julian J. Gonzalez
 __Version__: 0.1
 
 
@@ -19,8 +16,7 @@ You should have received a copy of the GNU General Public License
 along it; if not, write to the Free Software
 Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 
-MSOC Manager & Security Team at @SVTCloud
-www.svtcloud.com
+www.st2labs.com | @ST2Labs | @rhodius | @seguridadxato2
 """
 
 import json
