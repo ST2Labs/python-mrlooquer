@@ -39,10 +39,9 @@ JSON output example:
     'total': 1065201, u'max_score': None, u'page': 1}
 
 ## Credits
-
-by @rhodius @svtcloud<br>
-    MSOC: Monitoring & CiberSecurity Operations Center<br>
-    SVTCloud Security <br>
+```
+    by @rhodius  
 
 www.seguridadparatodos.es
+```
 ## 
